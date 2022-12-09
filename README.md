@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gRvLkd5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In step 1, the Resources in Azure were setup. The Domain Controller VM (Windows Server 2022) named “DC-1” was created while simultaneously creating the Resource Group and Virtual Network (Vnet). The Domain Controller’s NIC Private IP address was set to static. The Client VM (Windows 10) named “Client-1” was created with the same Resource Group and Vnet that was created in DC-1. The topology was checked with the Network Watcher, to ensure both VM's were in the same network. 
