@@ -67,6 +67,8 @@ In step 3 Active Directory Domain Services was Installed by logging in to DC-1. 
 <img src="https://i.imgur.com/GbbLxQW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In step 4, Remote Desktop was setup for non-administrative users on Client-1.  
+In step 4, Remote Desktop was setup for non-administrative users jane_admin was used a the user name,
+PowerShell_ise was opened as an administrator
+Create a new File and paste the contents of the script into it  
 </p>
 <br />
