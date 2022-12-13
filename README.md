@@ -39,22 +39,22 @@ In step 1, the Resources in Azure were setup. The Domain Controller VM (Windows 
 
 
 </p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/7g0Byol.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Active Directory Domain Services was Installed byLogging in to DC-1. Promoted as a DC: a new forest as mydomain.com was setup. Remote Desktop was Restarted and logged back into DC-1 as user: mydomain.com\labuser.
-
-</p>
-<br />
+<br /> 
 
 <p>
 <img src="https://i.imgur.com/vCZMGfK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Active Directory Domain Services was Installed byLogging in to DC-1. Promoted as a DC: a new forest as mydomain.com was setup. Remote Desktop was Restarted and logged back into DC-1 as user: mydomain.com\labuser.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/7g0Byol.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In step 3 Active Directory Domain Services was Installed by logging in to DC-1. Promoted as a DC: a new forest as mydomain.com was setup. Remote Desktop was Restarted and logged back into DC-1 as user: mydomain.com\labuser.
 </p>
 <br />
 
