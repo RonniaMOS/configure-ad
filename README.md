@@ -56,7 +56,7 @@ In step 2, Connectivity between the client and Domain Controller was ensured by 
 <img src="https://i.imgur.com/7g0Byol.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In step 3 Active Directory Domain Services was Installed by logging in to DC-1. Promoted as a DC: a new forest as mydomain.com was setup. Remote Desktop was Restarted and logged back into DC-1 as user: mydomain.com\labuser.
+In step 3, Active Directory Domain Services was Installed by logging in to DC-1. Promoted as a DC: a new forest as mydomain.com was setup. Remote Desktop was Restarted and logged back into DC-1 as user: mydomain.com\labuser.
 </p>
 <br />
 
@@ -68,7 +68,8 @@ In step 3 Active Directory Domain Services was Installed by logging in to DC-1. 
 </p>
 <p>
 In step 4, Remote Desktop was setup for non-administrative users jane_admin was used a the user name,
-PowerShell_ise was opened as an administrator
-Create a new File and paste the contents of the script into it  
+PowerShell_ise was opened as an administrator. A new File was created and pasted into the contents of the script. When the script is run, account will created. The accounts can now be viewed in Active Directory in the appropriate organizational unit.
+
+  
 </p>
 <br />
